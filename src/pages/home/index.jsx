@@ -1,4 +1,4 @@
-import Card from "/projetos/disney/src/components/card";
+import Card from "../../components/card"
 import "./style.css";
 
 const Home = ({ data }) => {
